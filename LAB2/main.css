@@ -1,0 +1,19 @@
+/* доступ до тегу body */
+body {
+    background-color: aquamarine;
+}
+
+/* доступ до всіх тегів p */
+p {
+    color: rgb(27, 27, 27);
+}
+
+/* доступ до елемента по id */
+#h4-style {
+    color: brown;
+}
+
+/* доступ до елемента через клас */
+.first-li{
+    list-style-type: circle;
+}
